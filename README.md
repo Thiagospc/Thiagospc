@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Thiagospc
-- 👀 I'm interested in learning more and more about programming and getting internships at moment.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-- 📫 INSTAGRAM: thiagospc_
+- Hi, there.
+
+- Eu estou fazendo faculdade de licenciatura da computação.
+- Eu estou atualmente estudando python.
+- Estou procurando por vagas de densenvolvedor e áreas afins de programação.
+- EMAIL: thiago.spc1029@gmail.com
 
