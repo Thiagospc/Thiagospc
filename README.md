@@ -1,4 +1,4 @@
-- Hi, there.
+## Olá. Eu sou o Thiago Santos :)
 
 - Eu estou fazendo faculdade de licenciatura da computação.
 - Eu estou atualmente estudando python.
