@@ -4,7 +4,7 @@
 - 🖥️ Eu estou atualmente estudando python.
 - 👨‍💻 Estou procurando por vagas de densenvolvedor python e áreas afins de programação.
 - ✉️ EMAIL: thiago.spc1029@gmail.com
-- ✈️ English: avançado
+- ✈️ English: Avançado
 <div>
   <a href="https://github.com/Thiagospc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagospc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
