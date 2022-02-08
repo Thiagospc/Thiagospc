@@ -1,7 +1,7 @@
 ## Olá. Eu sou o Thiago Santos :)
 
 - 📓 Eu estou Cursando faculdade de Licenciatura da Computação.
-- 🖥️ Eu estou atualmente estudando DBA(SQL e MySql) e Python.
+- 🖥️ Eu estou atualmente estudando DBA(MySQL) e Python.
 - 👨‍💻 Estou procurando por vagas de programador Front End e Programador Python e áreas afins de programação.
 - ✉️ EMAIL: thiago.spc1029@gmail.com
 - ✈️ English: Avançado
