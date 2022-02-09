@@ -1,7 +1,7 @@
 ## Olá. Eu sou o Thiago Santos :)
 
 - 📓 Eu estou Cursando faculdade de Ciência da Computação(Licenciatura).
-- 🖥️ Eu estou atualmente estudando DBA(MySQL) e Python.
+- 🖥️ Eu estou atualmente estudando DBA Júnior e Python.
 - 👨‍💻 Estou procurando por vagas de Database Administrator, programador Back-End e Programador Python.
 - ✈️ English: Avançado.
 <div>
