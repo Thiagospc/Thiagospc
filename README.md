@@ -3,7 +3,7 @@
 - 📓 Eu estou Cursando faculdade de Ciência da Computação(Licenciatura).
 - 🖥️ Eu estou atualmente estudando DBA(MySQL) e Python.
 - 👨‍💻 Estou procurando por vagas de Database Administrator, programador Back-End e Programador Python.
-- ✈️ English: Avançado
+- ✈️ English: Avançado.
 <div>
   <a href="https://github.com/Thiagospc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagospc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
