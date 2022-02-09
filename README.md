@@ -24,7 +24,6 @@
 ##
 
 <div> 
- <a href="https://discord.gg/6n9bvuRs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:thiago.spc1029@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=5591980659587&text=mensagem%20de%20exemplo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   </div>
