@@ -2,9 +2,9 @@
 
 Since 2018, I have had stronger contacts with technology, it was when I installed my first linux distribution, Linux Mint, over time I was testing other distributions and falling in love with the technology field. I ended up getting to know the area of ​​information security later, but I felt limited at the time, because even though I knew about terminals and a basics of networks, I didn't know anything about programming, it was then that I decided to start learning. My first programming language was Python, which I'm passionate about to this day, with time starting to learn other programming languages ​​and starting the computer science course (degree), I saw that I identified much more as a developer, this passion for programming motivates me to always learn, always with the idea that I may not be the best, but I always try to be the hardest as a developer, looking for solutions instead of problems.
 
-	As a professional, I highly value the quality of services I offer to clients or the company I am providing services to, always seeking to be proactive and decisive in ideas, having ease in working in environments that need clarity, agility and autonomy, not to mention the ease in working in a group, not only proposing new ideas, but in leadership.
+As a professional, I highly value the quality of services I offer to clients or the company I am providing services to, always seeking to be proactive and decisive in ideas, having ease in working in environments that need clarity, agility and autonomy, not to mention the ease in working in a group, not only proposing new ideas, but in leadership.
 
-	I'm currently an intern as a systems analyst using languages ​​and tools like Python, HTML5, CSS3, Javascript, MySQL with SQL and PhpMyAdmin.
+I'm currently an intern as a systems analyst using languages ​​and tools like Python, HTML5, CSS3, Javascript, MySQL with SQL and PhpMyAdmin.
 
 Feel free to contact me 🙂
 <div>
