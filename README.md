@@ -1,6 +1,16 @@
 ## Hello, I'm Thiago Santos :)
 
-  In 2017, I had my first contacts with Linux, an operating system that I still find super interesting, and occasionally, my introduction to the world of intro. My passion for programming started in 2018, when I had my first experience with coding. I found it so amazing that further down the language would become a web developer, deciding to study Html in the week and later in JavaScript, and taking some programming languages ​ that I actually learned. After that, my first experience in a 6 month internship, which was a vacancy of Analyst and Systems Developer, I was able to learn the SQL language and did project tasks for the MySQL Database, which was developed in Data Management systems. bank companies, which is on my GiHub as REGISTER in Python. I'm currently delving into Front end and the React.Js tool.
+ Hello there  
+My name is Thiago Santos and I'm a frontend Web Developer that has been studying and working in coding and computing since 2017 when I had my first contact with the Linux operating system. As a software developer passionate about technological systems, I'm always ready to learn new topics, trends and how to keep up on roles in the profession. 
+
+I already worked with:
+- JavaScript, React.js (Frontend framework); 
+- HTML5, CSS3, Sass (a CSS extension);
+- Python;
+- SQL (Management of MySQL database systems);
+- Agile Development Methodologies (Scrum, Kanban);
+
+After a recent internship, I'm currently working with React.Js and frontend web development. I take care to work with the best practices of web development and to always keep a lifelong learning attitude with me!
 
 Feel free to contact me 🙂
 <div>
