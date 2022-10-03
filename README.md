@@ -22,15 +22,19 @@ Feel free to contact me 🙂
   
 <div style="display: inline_block"><br>
   <!-- ícones do linguagens -->
-  <img align="center" alt="Thiago-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thiago-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thiago-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Thiago-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiago-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thiago-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Thiago-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
-  <!-- <img align="right" alt="Thiago-picture" height="150" style="border-radius:50px;" src="https://github.com/account"> -->
+<img align="center" alt="Thiago-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Thiago-Nodejs" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+<img align="center" alt="Thiago-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Thiago-Ts" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Thiago-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Thiago-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Thiago-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Thiago-PHP" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<img align="center" alt="Thiago-MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="Thiago-Linux"   height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img align="center" alt="Thiago-VSCODE"   height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+
+  <!-- <img align="right" alt="Thiago-picture" height="150" style="border-radius:50px;" src="![thiago](https://user-images.githubusercontent.com/64646796/193579900-a3aba8bf-85b0-4b17-8fbb-975d51ad0efb.jpeg)"> -->
 </div>
   
 ##
