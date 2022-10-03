@@ -1,6 +1,6 @@
 ## Hello there, I'm Thiago Santos :)
 
-My name is Thiago Santos and I'm a frontend Web Developer that has been studying and working in coding and computing since 2017 when I had my first contact with the Linux operating system. As a software developer passionate about technological systems, I'm always ready to learn new topics, trends and how to keep up on roles in the profession. 
+My name is Thiago Santos and I'm a frontend Web Developer that has been studying and working in coding since 2017 when I had my first contact with the Linux operating system. As a software developer passionate about technological systems, I'm always ready to learn new topics, trends and how to keep up on roles in the profession. 
 
 I already worked with:
 - JavaScript, React.js (Frontend framework); 
