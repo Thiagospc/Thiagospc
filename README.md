@@ -1,17 +1,9 @@
-## Hello there, I'm Thiago Santos :)
+## Olá, sou o Thiago Santos :)
+Sou Desenvolvedor Web frontend que estudo e trabalha com programação e computação desde 2017 quando tive meu primeiro contato com o sistema operacional Linux. Como desenvolvedor de software apaixonado por sistemas tecnológicos, estou sempre pronto para aprender novos tópicos, tendências e como se manter atualizado sobre as funções na profissão.
 
-My name is Thiago Santos and I'm a frontend Web Developer that has been studying and working in coding since 2017 when I had my first contact with the Linux operating system. As a software developer passionate about technological systems, I'm always ready to learn new topics, trends and how to keep up on roles in the profession. 
+Após um estágio recente, atualmente estou trabalhando com React.Js e desenvolvimento web frontend. Tenho o cuidado de trabalhar com as melhores práticas de desenvolvimento web e manter sempre comigo uma atitude de aprendizagem ao longo da vida!
 
-I already worked with:
-- JavaScript, React.js (Frontend framework); 
-- HTML5, CSS3, Sass (a CSS extension);
-- Python;
-- SQL (Management of MySQL database systems);
-- Agile Development Methodologies (Scrum, Kanban);
-
-After a recent internship, I'm currently working with React.Js and frontend web development. I take care to work with the best practices of web development and to always keep a lifelong learning attitude with me!
-
-Feel free to contact me 🙂
+Sinta-se livre para me contatar 🙂
 <div>
   <a href="https://github.com/Thiagospc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagospc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
