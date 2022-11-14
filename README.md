@@ -1,9 +1,11 @@
 ## Olá, sou o Thiago Santos :)
-Sou Desenvolvedor Web frontend que estudo e trabalha com programação e computação desde 2017 quando tive meu primeiro contato com o sistema operacional Linux. Como desenvolvedor de software apaixonado por sistemas tecnológicos, estou sempre pronto para aprender novos tópicos, tendências e como se manter atualizado sobre as funções na profissão.
-
-Após um estágio recente, atualmente estou trabalhando com React.Js e desenvolvimento web frontend. Tenho o cuidado de trabalhar com as melhores práticas de desenvolvimento web e manter sempre comigo uma atitude de aprendizagem ao longo da vida!
+- Sou Desenvolvedor Web Frontend.
+- Atualmente estou estudando e trabalhando com programação, utilizando as tecnologias React.js e Node.js.
+- Como desenvolvedor de software apaixonado por sistemas tecnológicos, estou sempre pronto para aprender novos tópicos, tendências e como se manter atualizado sobre as funções na profissão.
+- Tenho o cuidado de trabalhar com as melhores práticas de desenvolvimento web e manter sempre comigo uma atitude de aprendizagem ao longo da vida!
 
 Sinta-se livre para me contatar 🙂
+
 <div>
   <a href="https://github.com/Thiagospc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagospc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
