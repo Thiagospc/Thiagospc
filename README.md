@@ -16,6 +16,7 @@ Sinta-se livre para me contatar 🙂
   
 <div style="display: inline_block"><br>
   <!-- ícones do linguagens -->
+<img align="center" alt="Thiago-React" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
 <img align="center" alt="Thiago-React" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Thiago-Nodejs" height="60" width="70" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img align="center" alt="Thiago-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
