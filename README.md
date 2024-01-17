@@ -1,15 +1,11 @@
-## Olá, sou o Thiago Santos. Desenvolvedor Web Frontend.
-- Atualmente estou estudando e trabalhando com programação, utilizando as tecnologias React.js e Node.js.
-- Como desenvolvedor, me interesso muito pela área de software e estou sempre pronto para aprender novos tópicos, tendências e como se manter atualizado sobre as funções na profissão.
-- Tenho o cuidado de trabalhar com as melhores práticas de desenvolvimento web e manter sempre comigo uma atitude de aprendizagem ao longo da vida!
-
-
-  
- ## Portifólio: https://thiagospc.netlify.app/
+## 👋 Olá, sou Thiago Santos, um entusiasta de Cibersegurança
+- 💻 Atualmente, estou imerso em estudos e trabalho que envolvem a proteção de sistemas, utilizando minha expertise para garantir ambientes online mais seguros. Estou sempre pronto para abraçar novos desafios e aprender sobre as últimas ameaças cibernéticas e estratégias de defesa.
+- 🔐 Comprometido com as melhores práticas de segurança cibernética, acredito na importância de manter uma mentalidade de aprendizado contínuo para acompanhar a evolução constante das ameaças.
+- 🚀 Meu portfólio: thiagospc.netlify.app
+- 🤝 Estou aberto a colaborações e ansioso para contribuir para a construção de ambientes digitais mais seguros. Vamos juntos fortalecer a segurança cibernética!
   
 <div style="display: inline_block"><br>
   <!-- ícones do linguagens -->
-<img align="center" alt="Thiago-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
 <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align="center" alt="Thiago-Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
