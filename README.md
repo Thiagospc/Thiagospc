@@ -1,8 +1,11 @@
-## 👋 Olá, sou Thiago Santos, profissional de cibersegurança
-- 💻 Atualmente, estou imerso em estudos e trabalho que envolvem a proteção de sistemas, utilizando minha expertise para garantir ambientes online mais seguros. Estou sempre pronto para abraçar novos desafios e aprender sobre as últimas ameaças cibernéticas e estratégias de defesa.
-- 🔐 Comprometido com as melhores práticas de segurança cibernética, acredito na importância de manter uma mentalidade de aprendizado contínuo para acompanhar a evolução constante das ameaças.
-- 🚀 Meu portfólio: https://www.thiagosantostech.com/
-- 🤝 Estou aberto a colaborações e ansioso para contribuir para a construção de ambientes digitais mais seguros. Vamos juntos fortalecer a segurança cibernética!
+## 👋 Olá, sou Thiago Santos, Desenvolvedor Front-End
+👨🏻‍💻 Atualmente estou estudando e trabalhando com programação, utilizando as tecnologias Vue.js, Laravel e Docker.
+
+⌨ Como desenvolvedor, me interesso muito pela área de software e estou sempre pronto para aprender novos tópicos, tendências e como se manter atualizado sobre as funções na profissão.
+
+💡 Tenho o cuidado de trabalhar com as melhores práticas de desenvolvimento web e manter sempre comigo uma atitude de aprendizagem ao longo da vida!
+
+🌐 Meu Portifólio: https://www.thiagosantostech.com/
   
 <div style="display: inline_block"><br>
   <!-- ícones do linguagens -->
