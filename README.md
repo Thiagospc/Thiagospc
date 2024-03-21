@@ -1,7 +1,7 @@
 ## Desenvolvedor Front-End
 Thiago Santos é um estudante de programação na Universidade Federal Rural da Amazônia. Com 2 anos de experiência na criação de sites, ele possui grande conhecimento do setor de desenvolvimento, assim como fortes habilidades como desenvolvedor de automações com Python e administração de banco de dados. Além disso, Thiago possui experiência atuando como freelancer, trabalhando na criação de sites para terceiros. Atualmente, Thiago é o encarregado do desenvolvimento do site Portal Janela Única da empresa Maia Produção de Software.
 
-🌐 Meu Portifólio: [https://www.thiagosantostech.com/](https://thiagofrontend.netlify.app/)
+🌐 Meu Portifólio: https://thiagofrontend.netlify.app/
   
 <div style="display: inline_block"><br>
   <!-- ícones do linguagens -->
