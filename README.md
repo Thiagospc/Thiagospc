@@ -1,4 +1,4 @@
-## CybverSecurity
+## CyberSecurity
 
 🌐 Meu Portifólio: https://thiagosecurity.netlify.app/
   
