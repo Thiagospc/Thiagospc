@@ -1,6 +1,6 @@
 ## Desenvolvedor Full-Stack
 
-🌐 Meu Portifólio: https://thiagosecurity.netlify.app/
+🌐 Meu Portifólio: https://thiagofullstack.netlify.app/
   
 <div style="display: inline_block"><br>
   <!-- ícones do linguagens -->
